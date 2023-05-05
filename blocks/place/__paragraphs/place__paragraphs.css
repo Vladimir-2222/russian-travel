@@ -1,0 +1,24 @@
+.place__paragraphs {
+    max-width: 484px;
+    gap: 26px;
+    display: flex;
+    flex-direction: column;
+    color: #FFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 163%;
+ }
+ 
+ @media screen and (max-width: 1023px){
+     .place__paragraphs {
+         font-size: 16px;
+         line-height: 163%;
+    }
+  }
+  
+  @media screen and (max-width: 767px){
+     .place__paragraphs  {
+         padding: 0 16px 0;
+    }
+  }
