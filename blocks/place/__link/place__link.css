@@ -6,3 +6,7 @@
     line-height: 122%;
     text-decoration: underline;
 }
+
+.place__link:hover {
+    opacity: 0.8;
+}

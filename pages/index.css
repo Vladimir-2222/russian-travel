@@ -1,12 +1,5 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/font.css);
-@import url(../vendor/fonts/inter.css);
-@import url(../vendor/fonts/Inter-Black.woff);
-@import url(../vendor/fonts/Inter-Black.woff2);
-@import url(../vendor/fonts/Inter-Bold.woff);
-@import url(../vendor/fonts/Inter-Bold.woff2);
-@import url(../vendor/fonts/Inter-Regular.woff);
-@import url(../vendor/fonts/Inter-Regular.woff2);
 @import url(../blocks/page/page.css);
 
 
@@ -30,10 +23,11 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__lists/intro__lists.css);
 @import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__label/intro__label.css);
 
 
-@import url(../blocks/foto-grid/foto-grid.css);
-@import url(../blocks/foto-grid/__item/foto-grid__item.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 
 @import url(../blocks/places/places.css);
