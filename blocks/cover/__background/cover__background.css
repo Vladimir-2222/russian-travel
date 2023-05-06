@@ -10,7 +10,7 @@
     align-items: center;
     justify-content: center;
     background-repeat: no-repeat;
-    background-size: contain ;
+    background-size: contain;
 }
 
 .cover__background:hover .cover__overlay{
